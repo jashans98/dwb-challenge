@@ -6,7 +6,7 @@ The stock market is a marketplace to trade securities. Securities, or stocks, ar
 There are a lot of day-traders on the stock market. Day traders try to leverage the day-to-day fluctuations of a stock and make a profit by buying low and selling high at the right times.
 
 ### Challenge
-The challenge is to create an algorithmic trader. 
+The challenge is to create an algorithmic trader.
 
 You will be given a test file with historical quotes of a certain stock or index fund. Using this data, you must output the trades you plan on making on each day.
 
@@ -31,6 +31,6 @@ If you hold any stocks at the end of the time period given, they will be sold at
 2012-09-06,1000
 
 ### Winning
-The winner will be the team that has the highest profit at the end of the data set given. 
+The winner will be the team that has the highest profit at the end of the data set given.
 
 The prize is a pair of Bose QC25 Headphones.
